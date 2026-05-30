@@ -1,0 +1,1 @@
+import json; print(json.load(open('metrics.json')))
